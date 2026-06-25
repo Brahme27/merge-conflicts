@@ -1,3 +1,4 @@
+print("Start")
 print("A")
 print("B")
 print("C")

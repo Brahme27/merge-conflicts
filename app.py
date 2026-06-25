@@ -1,1 +1,1 @@
-print("not hello world")
+a=20

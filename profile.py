@@ -1,4 +1,5 @@
 def get_profile():
+    print("Loading profile")
     return "User Profile"
 
 

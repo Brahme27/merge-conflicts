@@ -1,5 +1,5 @@
 def get_profile():
-    return "User"
+    return "User Profile"
 
 
 print(get_profile())
